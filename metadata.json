@@ -1,0 +1,6 @@
+{
+  "name": "Hexa Watermark Adder",
+  "description": "Free online Watermark Adder. Core features include customizable text/image watermarks, rotations, live canvas previews, opacity, dynamic scale, drag repositioning, and HD downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
